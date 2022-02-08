@@ -119,7 +119,7 @@ function cleanCart() {
      
     cart.length=0;
     total = 0;
-    //se puede hacer con bucle for;
+    
     subtotal = {
         grocery: {
             value: 0, 
